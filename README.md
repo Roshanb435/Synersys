@@ -17,7 +17,7 @@ Duration Covered: December – January
 
 Mode: In-person
 
-Technical Coverage
+**Technical Coverage**
 
 **Core Java & OOP**
 Java fundamentals, JVM basics, control structures, methods, classes, objects, inheritance, polymorphism, encapsulation, abstraction, packages, and access modifiers.
