@@ -1,68 +1,61 @@
 **Java Training & Practice Repository – Synersys Technologies**
 
-**Overview**
+This repository contains hands-on work completed during my **Java training at Synersys Technologies**, conducted by **Reczo Solutions**, covering learning and implementation up to **22 January**.
 
-This repository contains the hands-on work completed during my Java training at Synersys Technologies, conducted by Reczo Solutions, covering learning and implementation up to 22 January.
-It includes Core Java programs, OOP concepts, Collections, SQL, JDBC integration, basic API concepts, testing fundamentals, and Git usage, along with multiple Java mini-projects.
+It includes practice and mini-projects related to **Core Java**, **OOP**, **Collections**, **Streams**, **SQL**, **JDBC**, **introductory REST APIs**, **testing basics**, and **Git workflows**.
 
 **Training Summary**
-
-Organization: Synersys Technologies
-
-Training Partner: Reczo Solutions
-
-Program: Full-Stack Foundations & Integration Essentials
-
-Duration Covered: December – January
-
-Mode: In-person
+* Organization: Synersys Technologies
+* Training Partner: Reczo Solutions
+* Program: Java , SQL 
+* Duration: December – January
+* Mode: In-person
 
 **Technical Coverage**
 
-**Core Java & OOP**
-Java fundamentals, JVM basics, control structures, methods, classes, objects, inheritance, polymorphism, encapsulation, abstraction, packages, and access modifiers.
+* Core Java & OOP concepts
+* Collections Framework and Java Streams
+* Exception handling and custom exceptions
+* SQL and relational databases
+* JDBC-based database integration
+* REST API fundamentals (GET, POST)
+* Testing basics and Git version control
 
-**Collections & Streams**
-List, Set, Map, ArrayList vs LinkedList, HashMap vs TreeMap, iterators, enhanced loops, and basic Java Streams operations.
+## Major Project
 
-**Exception Handling**
-Checked and unchecked exceptions, try–catch–finally, custom exceptions, and error-handling practices.
+**University Course Registration & GPA Calculation System**
 
-**SQL & Databases**
-CRUD operations, joins, filtering, grouping, and aggregate functions.
+A Java-based application built using **Core Java, Collections, JDBC, and REST APIs** that allows students to register, select courses, assign grades, and calculate GPA based on course credits.
 
-**JDBC Integration**
-Java–SQL connectivity using JDBC, PreparedStatement, and console-based CRUD applications.
+Key highlights include:
 
-**Mini Projects (Java + JDBC)**
-E-commerce module, Billing system, Ticket booking system, and Student/Employee management applications.
+* Student and course management using JDBC and MySQL
+* GPA calculation using Java Streams
+* REST endpoints for enrollment and reporting
+* Usage of `List` and `Map` collections
+* Custom exception handling
 
-**API Basics (Introductory)**
-REST vs SOAP concepts, HTTP methods, status codes, JSON/XML formats, and basic API testing exposure.
+### Additional Mini Projects
 
-**Testing & Version Control**
-Unit testing fundamentals and Git operations (clone, commit, push, pull).
+* E-commerce module
+* Billing system
+* Ticket booking system
+* Student and employee management applications
 
-**Key Outcomes**
+---
 
-Strong foundation in Core Java and OOP
+### Purpose
 
-Practical experience with Collections and JDBC
+This repository serves as a **learning archive**, **technical portfolio**, and **interview reference**, showcasing structured training and practical Java development experience.
 
-Ability to build end-to-end console-based Java applications
+---
 
-Understanding of database integration and basic APIs
+### Disclaimer
 
-Familiarity with testing practices and Git workflows
+This repository is created for **training and learning purposes only** as part of the Java training program at Synersys Technologies.
 
-**Purpose of This Repository**
+---
 
-This repository serves as a learning archive, technical portfolio, and interview reference, reflecting structured training, consistent practice, and industry-aligned Java development.
+### Author
 
-**Disclaimer**
-
-This repository is created for training and learning purposes only as part of the Java training program at Synersys Technologies.
-
-**Author**
-
-Roshan Bonagiri
+**Roshan Bonagiri**
