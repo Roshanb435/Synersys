@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module samplesoapapplication {	requires jakarta.*;
+	}

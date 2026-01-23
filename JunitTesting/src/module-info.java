@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module JunitTesting {
+	
+	requires junit;
+}
